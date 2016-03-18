@@ -1,0 +1,11 @@
+F:\Temp\myWeb\Solution1\ConsoleApplication1\bin\Debug\Calendar.exe.config
+F:\Temp\myWeb\Solution1\ConsoleApplication1\bin\Debug\Calendar.exe
+F:\Temp\myWeb\Solution1\ConsoleApplication1\bin\Debug\Calendar.pdb
+F:\Temp\myWeb\Solution1\ConsoleApplication1\obj\Debug\Calendar.exe
+F:\Temp\myWeb\Solution1\ConsoleApplication1\obj\Debug\Calendar.pdb
+F:\Temp\myWeb\Solution1\Calendar\bin\Debug\Calendar.exe.config
+F:\Temp\myWeb\Solution1\Calendar\obj\Debug\Calendar.exe
+F:\Temp\myWeb\Solution1\Calendar\obj\Debug\Calendar.pdb
+F:\Temp\myWeb\Solution1\Calendar\bin\Debug\Calendar.exe
+F:\Temp\myWeb\Solution1\Calendar\bin\Debug\Calendar.pdb
+F:\Temp\myWeb\Solution1\Calendar\obj\Debug\Calendar.csprojResolveAssemblyReference.cache
